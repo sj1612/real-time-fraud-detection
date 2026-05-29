@@ -8,7 +8,7 @@ app_file: streamlit_app.py
 pinned: false
 ---
 
-//Real-Time Unsupervised Financial Fraud Stream Guardian
+#Real-Time Unsupervised Financial Fraud Stream Guardian
 
 This is an end-to-end, high-performance, real-time financial transaction anomaly detection platform. Engineered for highly skewed distributions where historical fraud labels are unavailable or dynamic, Sentry-AI integrates classic machine learning and deep learning sequence models within an in-process streaming architecture.
 
