@@ -1,0 +1,14 @@
+# Ignore the large data files
+data/
+
+# Ignore temporary local model training logs and comparison plots
+logs/
+.system_generated/
+
+# Ignore Python caching files
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
